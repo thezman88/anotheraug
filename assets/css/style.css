@@ -32,7 +32,7 @@ hr{
 }
 
 .hey{
-    margin-top: 120px;
+    margin-top: 90px;
     font-size: 90px;
     color: rgba(255, 255, 255, 0.966);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -98,7 +98,7 @@ hr{
 .skillP{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
-    text-decoration: underline rgb(13, 197, 197);
+    text-decoration: underline rgb(13, 197, 197) !important;
 }
 .skillList{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
