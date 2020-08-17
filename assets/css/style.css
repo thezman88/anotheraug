@@ -239,6 +239,10 @@ hr{
     color: rgb(143, 151, 155);
 
 }
+
+.groundzModal{
+    height: 300px !important;
+}
 @media only screen and (max-width: 600px) {
    .resumeBtn{
       /* background-color: lightblue; */
