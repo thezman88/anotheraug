@@ -250,4 +250,7 @@ hr{
       margin-left: -190px;
       margin-top: 80px;
     }
+    .downAarow{
+        display: none;
+    }
   }
