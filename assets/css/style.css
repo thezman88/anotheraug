@@ -253,4 +253,7 @@ hr{
     .downAarow{
         display: none;
     }
+    .hey{
+        margin-top: -10px;
+    }
   }
