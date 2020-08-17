@@ -2,8 +2,10 @@
 html{
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    scroll-behavior: smooth;
 
 }
+
 *{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
@@ -90,7 +92,7 @@ hr{
 .resumeBtn{
     margin-left: 20%;
 }
-/* .skillSection{
+.skillSection{
     background-color: rgb(241, 241, 241);
 }
 .skillP{
@@ -101,7 +103,7 @@ hr{
 .skillList{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(143, 151, 155);
-} */
+}
 
 .projects{
     background-color: #273a4d;
@@ -220,6 +222,15 @@ hr{
   }
 .nodeP{
     color: rgb(167, 167, 167);
+}
+.upAarow:hover{
+    color: rgb(13, 197, 197) !important;
+    transition: 0.8s;
+
+}
+
+#footer{
+    background-color: rgb(15, 15, 15);
 }
 
 @media only screen and (max-width: 600px) {
