@@ -234,7 +234,11 @@ hr{
     background-color: rgb(15, 15, 15);
 }
 
+.bamModalBlurb{
+    font-size: 14px;
+    color: rgb(143, 151, 155);
 
+}
 @media only screen and (max-width: 600px) {
    .resumeBtn{
       /* background-color: lightblue; */
