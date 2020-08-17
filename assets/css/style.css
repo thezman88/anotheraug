@@ -81,6 +81,8 @@ hr{
 }
 .listPhone{
     line-height: 10px;
+    color: white;
+    text-decoration: white;
 }
 .listEmail{
     line-height: 10px;
@@ -90,6 +92,16 @@ hr{
 }
 .skillSection{
     background-color: rgb(241, 241, 241);
+}
+.skillP{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-decoration: underline rgb(13, 197, 197);
+    /* padding-bottom: 3px; */
+}
+.skillList{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(143, 151, 155);
 }
 
 @media only screen and (max-width: 600px) {
