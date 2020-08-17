@@ -37,7 +37,7 @@ hr{
 
 }
 
-.aboutMe{
+.aboutMeDetails{
     font-size: 20px;
     color: rgb(187, 187, 187);
     
@@ -60,6 +60,34 @@ hr{
 .downAarow:hover{
     color: rgb(13, 197, 197);
     transition: 0.8s;
+}
 
+.aboutZach{
+    font-size: 24px;
+}
+.aboutMe{
+    background-color: rgb(43, 43, 43);
 
+}
+.aboutParagraph{
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.listName{
+    line-height: 10px;
+}
+.listStamford{
+    line-height: 10px;
+}
+.listPhone{
+    line-height: 10px;
+}
+.listEmail{
+    line-height: 10px;
+}
+.resumeBtn{
+    margin-left: 20%;
+}
+.skillSection{
+    background-color: rgb(241, 241, 241);
 }
