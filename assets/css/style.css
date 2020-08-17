@@ -90,7 +90,7 @@ hr{
 .resumeBtn{
     margin-left: 20%;
 }
-.skillSection{
+/* .skillSection{
     background-color: rgb(241, 241, 241);
 }
 .skillP{
@@ -102,7 +102,7 @@ hr{
 .skillList{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(143, 151, 155);
-}
+} */
 
 @media only screen and (max-width: 600px) {
    .resumeBtn{
