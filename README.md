@@ -1,6 +1,10 @@
 # anotheraug
 This Repository contains the files for my professional web development portfolio.
 
-Landing Page
 
 ![](assets/images/frontpageShot.png)
+![](assets/images/middleFront.png)
+![](assets/images/projectFront.png)
+
+
+
